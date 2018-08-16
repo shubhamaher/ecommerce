@@ -1,0 +1,537 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"__",
+				"__name__"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"co",
+				"Contact"
+			],
+			[
+				"pro",
+				"products"
+			],
+			[
+				"uni",
+				"unique_slug_generator"
+			],
+			[
+				"Pro",
+				"Product"
+			],
+			[
+				"get",
+				"get_object_or_404"
+			],
+			[
+				"Pr",
+				"ProductQuerySet"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"ob",
+				"objects"
+			],
+			[
+				"up",
+				"upload_image_path"
+			],
+			[
+				"fi",
+				"final_filename"
+			],
+			[
+				"p",
+				"products"
+			],
+			[
+				"use",
+				"username"
+			],
+			[
+				"auth",
+				"authenticate"
+			],
+			[
+				"con",
+				"context"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"cl",
+				"cleaned_data"
+			],
+			[
+				"C",
+				"CharField"
+			],
+			[
+				"r",
+				"return"
+			],
+			[
+				"Con",
+				"ContactForm"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"conta",
+				"contact_form"
+			],
+			[
+				"for",
+				"forms"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"ho",
+				"home_page"
+			],
+			[
+				"d",
+				"django"
+			],
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"su",
+				"successful"
+			],
+			[
+				"RE",
+				"required\tAttr"
+			],
+			[
+				"po",
+				"_POST"
+			],
+			[
+				"P",
+				"_POST"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"my",
+				"mysql_error"
+			],
+			[
+				"sub",
+				"submit"
+			],
+			[
+				"In",
+				"insert"
+			],
+			[
+				"O",
+				"Order"
+			],
+			[
+				"Li",
+				"Line1"
+			],
+			[
+				"s",
+				"script\tTag"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"f",
+				"footer\tTag"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"fu",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"git",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/SHUBHAM/Desktop/python/attendance/__init__.py",
+		"/C/Users/SHUBHAM/Desktop/python/opensource/www/FlaskApp/FlaskApp/__init__.py",
+		"/C/Users/SHUBHAM/Desktop/python/moja/www/FlaskApp/FlaskApp/__init__.py",
+		"/C/Users/SHUBHAM/Desktop/main.py",
+		"/C/Users/SHUBHAM/Desktop/fl.py",
+		"/C/Users/SHUBHAM/Dev/ecommerce/src/templates/auth/register.html",
+		"/C/Users/SHUBHAM/Dev/ecommerce/src/templates/auth/login.html",
+		"/C/Users/SHUBHAM/Dev/ecommerce/src/products/templates/products/list.html",
+		"/C/Users/SHUBHAM/Dev/ecommerce/src/products/templates/products/detail.html",
+		"/C/Users/SHUBHAM/Dev/ecommerce/src/templates/home_page.html",
+		"/C/Users/SHUBHAM/Dev/ecommerce/src/templates/base.html",
+		"/C/Users/SHUBHAM/Dev/ecommerce/src/templates/base/navbar.html",
+		"/C/Users/SHUBHAM/Dev/ecommerce/src/templates/bootstrap/example.html",
+		"/C/xampp/htdocs/web/welcome.php",
+		"/C/Users/SHUBHAM/Desktop/nav.html",
+		"/C/xampp/htdocs/loginsystem/welcome.php",
+		"/C/Users/SHUBHAM/Desktop/slider.html",
+		"/C/Users/SHUBHAM/Dev/ecommerce/src/products/urls.py",
+		"/C/Users/SHUBHAM/Dev/ecommerce/src/products/templates/products/snippets/card.html",
+		"/C/Users/SHUBHAM/Dev/ecommerce/src/products/models.py",
+		"/C/Users/SHUBHAM/Dev/ecommerce/src/ecommerce/urls.py",
+		"/C/Users/SHUBHAM/Dev/ecommerce/src/products/admin.py",
+		"/C/Users/SHUBHAM/Dev/ecommerce/src/products/views.py",
+		"/C/Users/SHUBHAM/Dev/ecommerce/src/products/templates/products/featured-detail.html",
+		"/C/Users/SHUBHAM/Dev/ecommerce/src/templates/base/js.html",
+		"/C/Users/SHUBHAM/Dev/ecommerce/src/templates/base/css.html",
+		"/C/Users/SHUBHAM/Dev/ecommerce/src/ecommerce/views.py",
+		"/C/Users/SHUBHAM/Dev/ecommerce/src/templates/contact/view.html",
+		"/C/Users/SHUBHAM/Dev/ecommerce/src/products/templates/products/utils.py",
+		"/C/Users/SHUBHAM/Dev/ecommerce/src/ecommerce/settings.py",
+		"/C/Users/SHUBHAM/Dev/ecommerce/src/ecommerce/forms.py",
+		"/C/Users/SHUBHAM/Dev/test/src/project/settings.py",
+		"/C/Users/SHUBHAM/Dev/ecommerce/src/templates/about_page.html",
+		"/C/Users/SHUBHAM/Desktop/python/attendance/templates/addstudent.html",
+		"/C/Users/SHUBHAM/Dev/ecommerce/Scripts/django-admin.py",
+		"/C/Users/SHUBHAM/Dev/ecommerce/src/manage.py",
+		"/C/Users/SHUBHAM/Dev/ecommerce/src/ecommerce/templates/home_page.html",
+		"/C/xampp/htdocs/clg/cart.php",
+		"/C/xampp/htdocs/clg/action.php",
+		"/C/xampp/htdocs/clg/index.php",
+		"/C/xampp/htdocs/web/view_cart.php",
+		"/C/xampp/htdocs/clg/welcome.php",
+		"/C/xampp/htdocs/index.php",
+		"/C/xampp/htdocs/khan/logout.php",
+		"/C/xampp/htdocs/khan/login_form.php",
+		"/C/xampp/htdocs/khan/index.php",
+		"/C/xampp/htdocs/khan/login.php",
+		"/C/xampp/htdocs/khan/db.php",
+		"/C/xampp/htdocs/khan/customer_registration.php",
+		"/C/xampp/htdocs/khan/customer_order.php",
+		"/C/xampp/htdocs/khan/cart.php",
+		"/C/xampp/htdocs/khan/cancel.php",
+		"/C/xampp/htdocs/khan/cart_process.php",
+		"/C/xampp/htdocs/khan/action.php",
+		"/C/xampp/htdocs/khan/table.php",
+		"/C/xampp/htdocs/khan/register.php",
+		"/C/xampp/htdocs/khan/profile.php",
+		"/C/xampp/htdocs/khan/payment_success.php",
+		"/C/xampp/htdocs/khan/style.css",
+		"/C/xampp/htdocs/web/table.php",
+		"/F/IMP/[FreeTutorials.Us] Udemy - gcp-data-engineer-and-cloud-architect/06 Hadoop Pre-reqs and Context/041 Hadoop Pre-reqs and Context.html",
+		"/C/xampp/htdocs/loginsystem/dbconnection.php",
+		"/C/xampp/htdocs/web/biscuit_update.php",
+		"/C/xampp/htdocs/web/menu.php",
+		"/C/xampp/htdocs/web/config.php",
+		"/C/xampp/htdocs/web/dbconnection.php",
+		"/C/xampp/htdocs/web/services.php",
+		"/C/xampp/htdocs/web/add.php",
+		"/C/xampp/htdocs/web/bview_cart.php",
+		"/C/xampp/htdocs/web/biscuit.php",
+		"/C/xampp/htdocs/web/cart.php",
+		"/C/xampp/htdocs/web/cart_update.php",
+		"/C/xampp/htdocs/web/in.php",
+		"/C/xampp/htdocs/web/checklogin.php",
+		"/C/xampp/htdocs/cre/cart.php",
+		"/C/xampp/htdocs/cre/config.php",
+		"/C/Users/SHUBHAM/Downloads/script1.py",
+		"/C/xampp/htdocs/web/index.php",
+		"/C/xampp/htdocs/web/login.php",
+		"/C/xampp/htdocs/cre/view_cart.php",
+		"/C/Users/SHUBHAM/Downloads/php-shopping-cart-master/php-shopping-cart-master/style/style.css",
+		"/C/xampp/htdocs/cre/cart_update.php",
+		"/C/xampp/htdocs/cre/index.php",
+		"/C/xampp/htdocs/cre/edit.php",
+		"/C/xampp/htdocs/cre/delete.php",
+		"/C/xampp/htdocs/cre/add.php",
+		"/C/xampp/htdocs/cre/add.html",
+		"/C/xampp/htdocs/cre/submit_order_template.php",
+		"/C/xampp/htdocs/cre/submit_order.php",
+		"/C/xampp/htdocs/cre/cart_template.php",
+		"/C/xampp/htdocs/web/class.Cart.php",
+		"/C/xampp/htdocs/shop/class.Cart.php",
+		"/C/xampp/htdocs/web/map.php",
+		"/C/Users/SHUBHAM/Downloads/Cart-master/Cart-master/example.php",
+		"/C/Users/SHUBHAM/Downloads/Cart-master/Cart-master/class.Cart.php",
+		"/C/Users/SHUBHAM/Desktop/python/uda/webopen/webopen.py",
+		"/C/Users/SHUBHAM/Desktop/python/uda/webopen/importtime.py",
+		"/C/Users/SHUBHAM/Desktop/python/uda/spellcheck/sc.py",
+		"/C/Users/SHUBHAM/Desktop/python/uda/SMS/sms.py",
+		"/C/Users/SHUBHAM/Desktop/python/uda/turtle/m.py",
+		"/C/Users/SHUBHAM/Desktop/python/uda/turtle/turtl.py",
+		"/C/Users/SHUBHAM/AppData/Local/Temp/go.php",
+		"/F/Udemy - the-complete-angular-master-class/24 Project Check Out Module/363 What about Processing Payments.html",
+		"/C/Program Files/Avidemux 2.7 - 64 bits/ChangeLog.html",
+		"/C/Users/SHUBHAM/AppData/Roaming/Dashlane/4.6.6.23032/license/license_files/licenses.css",
+		"/C/xampp/htdocs/crud/config.php",
+		"/C/Users/SHUBHAM/Desktop/WT/jsreg.html",
+		"/C/Users/SHUBHAM/Desktop/WT/cssreg.html",
+		"/C/Users/SHUBHAM/Desktop/WT/bootstrap.min.css",
+		"/C/Users/SHUBHAM/Desktop/WT/ang.html",
+		"/C/Users/SHUBHAM/Desktop/WT/angrep.html",
+		"/C/Users/SHUBHAM/Desktop/WT/books.html",
+		"/C/Users/SHUBHAM/Desktop/WT/New folder/welcome.php",
+		"/C/Users/SHUBHAM/Desktop/WT/crud.txt",
+		"/C/xampp/htdocs/prac/index.php",
+		"/C/xampp/htdocs/prac/edit.php",
+		"/C/xampp/htdocs/prac/delete.php",
+		"/C/xampp/htdocs/prac/config.php",
+		"/C/xampp/htdocs/prac/add.php",
+		"/C/xampp/htdocs/prac/add.html",
+		"/C/xampp/htdocs/prac/database.sql",
+		"/C/Users/SHUBHAM/Downloads/crud-php-simple-master/crud-php-simple-master/database.sql",
+		"/C/Users/SHUBHAM/Desktop/WT/successful.html",
+		"/C/Users/SHUBHAM/Downloads/registervalidation.html",
+		"/C/Users/SHUBHAM/Desktop/WT/angular repeat .html",
+		"/C/Users/SHUBHAM/Desktop/WT/abcd.js",
+		"/C/Users/SHUBHAM/AppData/Local/Temp/bootstrap.min.css",
+		"/C/xampp/htdocs/crud/manage-studentdetail.php"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"list",
+			"first_name",
+			"name",
+			"$",
+			"+",
+			"Total",
+			"total",
+			"add",
+			"button",
+			"add",
+			"learn",
+			"services",
+			"index.php",
+			"discussdesk",
+			"example",
+			"sql",
+			"mnt",
+			"index",
+			"total",
+			"index",
+			"create",
+			"php",
+			"location",
+			"locattion",
+			"username",
+			"index",
+			"address",
+			"a{",
+			".btn-primary",
+			"border",
+			"#593196",
+			"<!",
+			"top "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 89.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ecommerce.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 164.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
